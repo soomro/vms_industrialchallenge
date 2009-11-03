@@ -16,12 +16,17 @@ We need to revise following:
 
 Vision Document:
 Recomendation:
-1.3 scope
-2.3 Product Position Statement
-3.1 Market Demographics
+1.3 scope – include vision document scope as well
+2.3 Product Position Statement - description should be some more detailed,  product name should be changed software system not application
+3.1 Market Demographics - should be stakeholder section point of view. What is the targeted market etc
 3.3 User Summary
-3.9 Alternatives and Competition
+3.9 Alternatives and Competition -should be researched in the market put them too for competition , describe how we r diff from them.
+4.1 ,4.2 product prospective should corrected with good sentence formation.
+5.1 product features should be concrete and clear,  2 line description should be give to them main focus is on
+
+Product objective, project objective , Scope should be clearly defined 
 [we dont need to put Mobile Technology word into vision, and have to talk in general, this can be put in features]
+
 
 Project Plan:
 Recomendations: 
@@ -31,7 +36,7 @@ Risk and Mitigation Plan:
 Recomendation: should be revised after each itteration
 
 Effort and progress tracking:
-Recomendation: predecessors should be included for each task in task tracking, end value analysis matric can be used
+Recomendation: predecessors should be included for each task in task tracking, earned value analysis matric can be used
 
 
 Internal:
