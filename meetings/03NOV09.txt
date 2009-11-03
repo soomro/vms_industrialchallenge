@@ -1,0 +1,58 @@
+
+Meeting Notes for 03-nov-2009
+
+Supervisory:
+===========
+we discussed four things in the meeting:
+
+   * Vision document
+   * Project plan
+   * Risk and mitigation plan
+   * Effort and progress tracking 
+
+We need to revise following:
+
+Vision Document:
+Recomendation:
+1.3 scope
+2.3 Product Position Statement
+3.1 Market Demographics
+3.3 User Summary
+3.9 Alternatives and Competition
+[we dont need to put Mobile Technology word into vision, and have to talk in general, this can be put in features]
+
+Project Plan:
+Recomendations: 
+Features should be revised user-tracking feature, mobile application, ..
+
+Risk and Mitigation Plan:
+Recomendation: should be revised after each itteration
+
+Effort and progress tracking:
+Recomendation: predecessors should be included for each task in task tracking, end value analysis matric can be used
+
+
+Internal:
+========
+we discussed about two things:
+
+1- meeting notes documentation
+
+a) Documenting the hameed suggestion
+b) Documenting Meeting dicussions for each meeting
+
+Meeting decision:
+A seprate file will be added into SVN in 'Meetings' folder in 'ddMMMyy.txt' format. and for both 'a' and 'b', there will be two sections seprate sections with  'Internal' and 'Supervisory'.
+
+
+2- Defects and tracking
+
+a) Documenting the Defects and tracking the in doucments/artifacts
+
+Meeting decision:
+This issue will be addressed in Risk Plan, details will be shared by Quality Team in the same plan by end of this itteration.
+
+
+3- Dicussion about usecase understanding
+Abdollah Tabreh will send the reading material about use-case diagram
+Deadline: 03-nov-09 03:00 PM
