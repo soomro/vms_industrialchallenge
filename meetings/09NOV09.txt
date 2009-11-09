@@ -1,0 +1,19 @@
+
+Meeting Notes for 09-nov-2009
+
+prepared by: waseem soomro
+
+Internal:
+========
+
+
+1- Point-Form Usecase
+
+We collectively reviewed use-cases prepared which prepared in last iteration, and decided that in next meeting we'll be discussing details of Usecase overall. 
+
+2- in the next meeting 'Presentation' details will also be discussed, and prepared completely.
+
+3- Vision document will be reviewed by Abdullah Arsalan by today.
+
+4- Projec Plan will be completed by Waseem Soomro by today
+
