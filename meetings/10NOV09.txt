@@ -1,0 +1,57 @@
+
+Document: Meeting Notes for 10-nov-2009
+prepared by: Waseem Soomro
+Meeting Attended by: All members	Place: IT University
+Time: 02:00 PM - 04.00 PM
+
+
+1)Use-case are reviewed
+
+Use-cases should be included:
+----------------------------
+2-login (user, manager)
+2-register (user, manager)
+update profile/deactivate (user)
+update profile (manager)
+report incident
+close crisis
+create crisis
+edit crisis
+create incident
+edit incident
+
+Use-cases should be removed:
+---------------------------
+1-answer crisis
+1-show request
+1-select volunteer (search by location, search by properties, manager 
+guide)
+1-manage incidents
+
+
+It was also decided that 'need-list will be treated as a feature. when 
+we create a incident it'll be created by default, which can be later 
+edited if required.
+
+
+2)Plan Mid-term Seminar Presentation, following details should be 
+included:
+- About our project
+- Features
+- backgrounds
+- Stockholder
+
+
+3) Use-case diagram will be prepared by today
+Responsible: Abdollah Tabareh
+
+4) Vision document will also be finalized by today
+Responsible: Shobha BC
+
+5) Project plan will also be finalized by today
+Responsible: Waseem Soomro
+
+
+6) Next meeting will be at 11th November 2009 (01:00 PM - 04:00 PM)
+Agenda: Finalize mid-term seminar presentation
+
