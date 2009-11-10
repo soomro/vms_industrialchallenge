@@ -28,10 +28,7 @@ Use-cases should be removed:
 guide)
 1-manage incidents
 
-
-It was also decided that 'need-list will be treated as a feature. when 
-we create a incident it'll be created by default, which can be later 
-edited if required.
+Scenerio was presented by Abdullah Arslan. It was also decided that 'need-list will be treated as a feature. when we create a incident it'll be created by default, which can be later edited if required.
 
 
 2)Plan Mid-term Seminar Presentation, following details should be 
