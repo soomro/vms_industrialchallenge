@@ -9,7 +9,8 @@ Internal Meeting: (10-11 AM)
 - Iteration planned for this week iteration
 - We'll do reading about detailed use-cases
 - Each member will give 10 min breif presenation to the whole group about system features and scope on Thursday
-
+-After feature modification, Use-case diagram need to revice along with point form use-cases
+-Detail Use-case need to prepared
 
 Supervisory Meeting: (11-12 AM)
 ====================
