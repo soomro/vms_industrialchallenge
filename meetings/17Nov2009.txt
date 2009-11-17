@@ -1,0 +1,27 @@
+
+Meeting Notes for 17-Nov-2009
+
+Prepared by: Waseem Soomro
+
+Internal Meeting: (10-11 AM)
+================
+
+- Iteration planned for this week iteration
+- We'll do reading about detailed use-cases
+- Each member will give 10 min breif presenation to the whole group about system features and scope on Thursday
+
+
+Supervisory Meeting: (11-12 AM)
+====================
+
+Hamed shared his feedback on the Vision Document, Project Plan, Quality Assurance Document.
+But couldn't discuss Point-form use-cases due to lack of time. Following are main points he raised:
+
+- Vision document should not include System Requirement part, its part of SRS.
+- Features listed in VMS Vision document need to be revised
+- Objective part in vision document, should give business perspective and relate to the 
+business needs
+- Project management metrics need to be specified 
+- Whole team should have a same understanding about the system
+- System should have feature which guaranty reliability
+- Messaging feature should be move clear
