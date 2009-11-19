@@ -1,0 +1,13 @@
+
+Meeting Notes for 19-Nov-2009
+
+Prepared by: Waseem Soomro
+
+Internal Meeting: (01:00 - 02:30 PM)
+====================================
+
+- Each member gave his/her presenation and many questions were asked and answered.
+
+- We see that there is lack in understanding still, which need to more reading. 
+
+- Abdollah Tabareh suggested that after detailed use-case we can question
