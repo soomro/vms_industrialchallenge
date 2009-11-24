@@ -1,0 +1,22 @@
+Supervisory Meeting 11:00 - 12:30
+--------------------
+USE CASES
+* Add description row to use cases.
+
+* For all use cases, final step must the system response
+
+* All use cases must be in this format : user interaction, system response, user interaction, system response...
+
+* express the inheritance of use cases in the diagram. If any use case uses another one, show it in the diagram.
+
+* use case names must be like 'Sending Request", not 'Send Request'
+-> A.A : I think, this is not correct. Search the web for use case examples. None of the examples uses '...ing ...' format.
+http://images.google.com.tr/images?hl=en&q=use+case+diagrams&sourceid=navclient-ff&rlz=1B3GGGL_enSE353SE353&um=1&ie=UTF-8&ei=veoLS9raOZTW-QaigbWrCA&sa=X&oi=image_result_group&ct=title&resnum=1&ved=0CBcQsAQwAA
+
+Features
+* consider having only one crisis at anytime. An organization should setup different versions of system if they have different crisis at a time.
+
+* put limit on your requirements. (e.g. at maximum, there can be 1000 incidents)
+
+Architect related
+* IN GUL -> there is use case realization related document. Study that. 
