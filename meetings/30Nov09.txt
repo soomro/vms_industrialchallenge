@@ -1,0 +1,45 @@
+
+
+Group Meeting:
+
+prepared by: Waseem Soomro
+
+* Screen Mockups
+================
+90% Complete
+
+* Use-Case 14 is not there?
+
+===========================
+"Manage Volunteer Information" deleted. Abdullah Arsalan will post it in SVN, reason why it was removed.
+
+
+* Use-case 
+==========
+(Review:2nd page of usecase file) 
+> Every one should first review individiually first and make points
+
+Deadline: 11:59 AM, Tuesday 1st December
+
+> We'll have a group meeting, and togather finalize it.
+> Shobha will be responsible to update/finalize Use-Cases, while discussing
+
+Meeting time: 12:00 PM Tuesday, 1st December 2009
+
+
+* Activity Digrams
+==================
+After meeting at '12:00 PM Tuesday, 1st December 2009', same team member who worked on activity digram will re-work and finalize.
+Deadline: 11:59 PM Tuesday, 2ndDecember 2009
+
+
+* Reading
+=========
+Tabareh:Reading should be assigned to each member, and he should be present abstract of it
+> Team decided that everyone should do reading itself. And share abstract till today (30th November 2009).
+> Tabareh will send reading material at 7.00 PM today (30th November 2009)
+
+
+* SRS
+=====
+> Tabareh will send the template for SRS by tomorrow (1st December, 2009)
