@@ -1,0 +1,55 @@
+
+Meeting notes
+
+by Mustafa
+
+creat crisis
+add explanation
+remove manager from pre condation
+there is no open crisis
+manager should be log increat new case shows options 
+write the managers task sin one statement(step)
+if there are some steps are not clear we will explain it
+crisis page with a map
+we have to have a step for manager 
+step for system
+
+system shows options
+manager enter information and save
+  define type
+  fined location .....
+system save data
+ alternative path if the data is not right or not completed
+add another alternative canceling
+we have to have outo complet options
+
+
+Edit crisis
+pre condition the same previous changes applied here
+post condation crisis information updated
+system saves and shows a message after changing
+
+
+
+new use case for log off for both manager and volunteer
+
+close crisis
+Nothing
+
+
+
+[added by waseem] for case#4
+# Refer use-case for map 		[ will be mentioned ]
+# line5: Manager enters information of incident [modified]
+# line6: Manager selects the severity (1-5)
+# line7: Manager selects the priority (1-5)
+# line8: need-list 	[will have default values]
+
+
+
+
+
+
+
+
+

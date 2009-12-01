@@ -1,0 +1,35 @@
+
+Supervisory Meeting 
+Time: 11.00 AM - 12.00 PM
+Prepared by Waseem Soomro
+
+* Use-case 
+==========
+1- Quality of use-case should be checked by checklists documeent, which can be modified.
+2- Architect team should confirm the work completion, then only Quality team start work regarding Quality Check.
+3- State of crisis is ignored in use-case preparation, this should be considered
+4- In Usecases, role of manger is missing when there is report received from Volunteer. It can be simplifying by the help of showing Reproted incidents in parellel view on the screen.
+So Manager should be provided way to see reported incidents, while creating incident.
+5- use-case output is missing. Consider a situation where Actor may cancel or leave the task which whould go well in possitive scenrio.
+6- Reature like 'auto complete' can be a use-case.
+
+* Activity Digram
+=================
+Adding one line description can be useful.
+
+* Issue tracking
+================
+
+1- Each defect should be put as seprate. And defect should be checked according to checklist.
+
+* others
+=======
+
+1- Architects can provide as an 'Roadmap' document, which will act as a suggestion from architects to the management. Which will details things like:
+- How much much cost project need in term of resourse, 
+- When and what resources are required, and till what time will that be utilized
+- Prioritizing of features
+- Dependency among features
+
+2- Quality Checklists document may be modified. And must be part of project documentation, which may be refered as reference within other documents.
+
