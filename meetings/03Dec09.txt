@@ -1,0 +1,14 @@
+
+
+Group Meeting
+12/3/2009
+
+Time: 2.00 - 3.00 PM
+
+
+- We reviewed Use-Cases, and put comments and discussed. But review did not complete.
+
+- It was decided that everyone will share their review, and Architects will discuss and finalize use-cases
+
+- We also voted and majority decided to add a usecase for 'create incident via button' as Hamed suggested
+
