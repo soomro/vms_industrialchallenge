@@ -1,0 +1,35 @@
+Meeting: 09-nov-09
+
+We decided about the following:
+
+modified version of Task 
+(which will be put on Excel sheet, later this evening). 
+Each task will be be submitted fours hours before the end of deadline day. 
+Then Test team will work on Quality.
+ 
+
+1. SRS: -  Shobba, AT, Waseem  by 12/12/2009
+Responsible: Shobha
+
+2. Use Cases : shobha, tigran, gilian,AT- 10/12/2009
+Responseible: Tigran
+ 
+3. Activity Diagram: AA, Mustafa   dead line 11/12/09
+Responsible: AA
+ 
+4.Screen mock ups :-Waseem , Gilana   by 13/12/2009
+Responsible: Gilana
+
+5. high level Architectural document : Shobha , Tigran, Gilan, Tabareh  by 14/12/2009
+Responsible: Shobha
+ 
+6. Supplementary document :  AT   by  13/12/2009
+Responsible: Tabareh
+
+
+PMs Responsible for monitroing each activity. 
+If things go wrong with deadlines, they'll be responsible to answer to the rest of the team for this.
+
+Please note two major things:
+Shobha, gilana, tigran, AA, Tabareh : Please distribute the activities further and list down sub-activities will be performed by each person within activity-team.
+Mustafa, will work on Enterprise Architect tool, so he gets ready for his task.
