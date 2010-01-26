@@ -1,0 +1,61 @@
+
+Niclas Meeting:
+
+prepared by: Abdullah Arslan
+
+final report
+-> our document is like activity journal! describe product
+-> customer will read and decide to buy or not to buy, explain the product
+-> show also feasibility
+-> lack of reference, we should search crisis area and reference
+there is many other similar work, we should read them and use them
+-> How can i trust your sayings, if you use and reference other scientific researches, your saying will be stronger
+To strengthen our idea, we need to refer other works
+
+-> Second point ???
+scenerio...
+(Niclas talked about a scenerio, i could not understand)
+
+-> describe the product via most important use cases
+
+TASK 1 - Rewrite the final report
+
+---------------------------------------
+SRS
+
+Requirement should be simple, atomic, providing validation criteria
+each requirement has a short description, ID desc, verification criteria
+
+Requirement specification should be easy understandable
+another person from outside can understand easily
+
+find a way for expressing our Functional reqs. 
+
+-> recommendation : prepare a state diagram 
+home page to which pages
+
+for each page, which requirements are needed
+which data is used
+which nonfunctional requirements are mapped to this page
+who should access this page
+
+
+-> so that, when implementing the system, it will be easy to verify the requirements
+
+did we fulfiled all requirements for this page?
+
+
+Task 2 -> prepare this structure and requirements
+
+there is a seperation between use cases and requirements
+the relation is "refine". "use cases refine requirements"
+this is a begin of high level architecture
+
+* the structure will be used for validation, data model, use cases , requirements
+
+* everything must be clear, a foreign person can easily unders
+and
+
+---------------------------------------------------------
+prepare data model, ensure CRUD is fulfiled in web pages 
+( I think this was suggestion, not a must )
