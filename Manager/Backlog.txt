@@ -1,8 +1,0 @@
-Weekly iterative tasks--------------------------------------------------------
--Remind to book a room for supervisor meetings the day before
--Email to Mattias about the room the day before
-
-Task Backlog (add new one at the end)------------------------------------
--Decide about the assisstants in the meetings and the way to handle calling them
--Make SVN folder and report to Mattias about the place
--Prepare work environment and hold the learning meeting
