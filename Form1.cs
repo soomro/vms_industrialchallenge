@@ -18,7 +18,9 @@ namespace WindowsFormsApplication1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("merhaba bu yeni stili sevdim.");
+            MessageBox.Show("this is changed line");
+		int a = 9;
+
         }
     }
 }
