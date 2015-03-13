@@ -1,12 +1,11 @@
 #VMS [Industrial Challenge]
-<br>first-phase of the project at academia.
+<br>Frist-phase of the project at academia.
 <hr>
 <br>
 <b> Project detail: </b><br>
-This is student project from 2011 batch at Gothenburg University, Sweden.
-Project: VMS Industrial Challenge Full name: VMS (Volunteer Management System) - Industrial Challenge <br>
+Project: VMS Industrial Challenge <br>Full name: VMS (Volunteer Management System) - Industrial Challenge <br>
 Project group name: Apollo. <br>
-
+Description: This is student project from 2011 batch at Gothenburg University, Sweden.
 
 <b>Project group members [in alphabetical order]:</b> 
 
