@@ -20,6 +20,6 @@ Waseem Soomro.<br>
 <br>Since project is exported form Google Code, following IDs may have been used for project members: abdullaharslan, bcshobha, tikogrig, gilana.62, tabareh, soomrowaseem, mustafaitgu
 <br>
 <br> <hr>
-<i>Project originally hosted at <a href="code.google.com/p/industrialchallenge"> Google code </a></i>
+<i>Project originally hosted at <a href="http://code.google.com/p/industrialchallenge"> Google code </a></i>
 
 
