@@ -1,24 +1,26 @@
-#VMS [Industrial Challenge: phase one of the project]
+#VMS [Industrial Challenge]
+<br>first-phase of the project at academia.
+<hr>
+<br>
+<b> Project detail: </b><br>
 This is student project from 2011 batch at Gothenburg University, Sweden.
-
-Project: VMS Industrial Challenge 
-Full name: VMS (Volunteer Management System) - Industrial Challenge
-
-Project group name: Apollo.
-
-Project group members [in alphabetical order]:
-Abdullah Arslan, 
-Gilana Ramezani, 
-Mohsen Tabareh, 
-Mustafa Al-Zubaidi,  
-Shobha BC,
-Tigran Harutyunyan,
-Waseem Soomro.
+Project: VMS Industrial Challenge Full name: VMS (Volunteer Management System) - Industrial Challenge <br>
+Project group name: Apollo. <br>
 
 
-Since project is exported form Google Code, following IDs may have been used for project members:
-abdullaharslan, bcshobha, tikogrig, gilana.62, tabareh, soomrowaseem, mustafaitgu
+<b>Project group members [in alphabetical order]:</b> 
 
-Automatically exported from code.google.com/p/industrialchallenge
+Abdullah Arslan, <br>
+Gilana Ramezani, <br>
+Mohsen Tabareh, <br>
+Mustafa Al-Zubaidi,<br>
+Shobha BC, <br>
+Tigran Harutyunyan, <br>
+Waseem Soomro.<br>
+
+<br>Since project is exported form Google Code, following IDs may have been used for project members: abdullaharslan, bcshobha, tikogrig, gilana.62, tabareh, soomrowaseem, mustafaitgu
+<br>
+<br> <hr>
+<i>Project originally hosted at <a href="code.google.com/p/industrialchallenge"> Google code </a></i>
 
 
